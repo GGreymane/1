@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Greymane"
+title                    : "G. Greymane"
 title_separator          : "-"
 name                     : &name "Greymane"
-description              : &description "personal description"
+description              : &description "Graduate Student at UVa. Currenly fall in love with a girl from UK that I never met."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GGreymane/GGreymane.github.io"

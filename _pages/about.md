@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This page records the story of **G. Greymane** from AntiLand, where he was fortunate enough to a **Pretty Little Nightmare**, the most wonderful girl he could ever imagine in the world from UK. G. Greymane is currently a Engineering graduate student in UVa, but after meeting a Pretty Little Nightmare, all he wants to do is to write poems and play music for her :)
+This page records the story of **G. Greymane** from AntiLand, where he was fortunate enough to a **Pretty Little Nightmare**, the most wonderful girl he could ever imagine in the world from UK. G. Greymane is currently an Engineering graduate student at UVa, but after meeting a Pretty Little Nightmare, all he wants to do is to write poems and play music for her :)
 
 Poems G. Greymane Wrote for Her
 ------
@@ -27,12 +27,7 @@ Poems G. Greymane Wrote for Her
 
 
 **In a Tunnel Long and Dark**    
-*In a tunnel long and dark,*    
-*Chiseled with slave blood.*    
-*Lights glimmer afar,*   
-*but never reach.*   
-*Just like my love.*    
-
+...
 *How can I bear this agony so intense?*   
 *Only through DEATH!*    
 *From which my **pretty little nightmare** grows.*

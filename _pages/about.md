@@ -12,7 +12,7 @@ This page records the story of **G. Greymane** from AntiLand, where he was fortu
 
 Poems G. Greymane Wrote for Her
 ------
-**Bury Me Beneath The Tree Where Berries are Enternally Red**    
+**Bury Me Beneath the Tree where Berries are Enternally Red**    
 *Bury me under the tree,*   
 *Where the berries are eternally red and shiny.*   
 *For in its shade, I'll find my peace,*   

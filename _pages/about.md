@@ -12,18 +12,12 @@ This page records the story of **G. Greymane** from AntiLand, where he was fortu
 
 Poems G. Greymane Wrote for Her
 ------
-**Bury Me Beneath the Tree where Berries are Enternally Red**    
-*Bury me under the tree,*   
-*Where the berries are eternally red and shiny.*   
-*For in its shade, I'll find my peace,*   
-*And in its soil, **my pretty nightmares** will never cease.*   
+**Bury Me Beneath the Tree where ...**    
+*Currently under review for publication in American Poetry Review*   
 
 
 **Carry me to the Blue Ridge Mountains**   
-*Carry me to the Blue Ridge Mountains, where the mist veils the land,*    
-*Where solitude reigns supreme, and nature's beauty is at hand.*    
-*There, beneath the shadow of the peaks, I'll find my place,*    
-*And with my **pretty little nightmire**, I'll lose myself in endless space.*    
+*Currently under review for publication in American Poetry Review*     
 
 
 **In a Tunnel Long and Dark**    

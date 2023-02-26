@@ -27,7 +27,7 @@ Poems G. Greymane Wrote for Her
 
 
 **In a Tunnel Long and Dark**    
-...
+...   
 *How can I bear this agony so intense?*   
 *Only through DEATH!*    
 *From which my **pretty little nightmare** grows.*

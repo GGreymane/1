@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "G. Greymane's story with Pretty Little Nightmare"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,46 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-This page records the story of G. Greymane from AntiLand, where he was fortunate enough to a Pretty Little Nightmare, the most wonderful girl in the world from UK. G. Greymane is a Engineering graduate student in UVa, but after meeting a Pretty Little Nightmare, all he wants to do is to write poems and play music for her :)
+This page records the story of **G. Greymane** from AntiLand, where he was fortunate enough to a **Pretty Little Nightmare**, the most wonderful girl he could ever imagine in the world from UK. G. Greymane is currently a Engineering graduate student in UVa, but after meeting a Pretty Little Nightmare, all he wants to do is to write poems and play music for her :)
 
-Bury Me Beneath The Tree Where Berries are Enternally Red
+Poems G. Greymane Wrote for a Pretty Little Nightmare
 ------
-Bury me under the tree,
+**Bury Me Beneath The Tree Where Berries are Enternally Red**
 
-Where the berries are eternally red and shiny.
-
-For in its shade, I'll find my peace,
-
-And in its soil, my pretty nightmares will never cease.
-
-
-Carry me to the Blue Ridge Mountains
-------
-Carry me to the Blue Ridge Mountains, where the mist veils the land,
-
-Where solitude reigns supreme, and nature's beauty is at hand.
-
-There, beneath the shadow of the peaks, I'll find my place,
-
-And with my pretty little nightmire, I'll lose myself in endless space.
+Bury me under the tree,   
+Where the berries are eternally red and shiny.   
+For in its shade, I'll find my peace,   
+And in its soil, my pretty nightmares will never cease.   
 
 
-In a Tunnel Long and Dark
-------
-In a tunnel long and dark, 
+**Carry me to the Blue Ridge Mountains**
 
-Chiseled with slave blood. 
-
-Lights glimmer afar, 
-
-but never reach.
-
-Just like my love.   
+Carry me to the Blue Ridge Mountains, where the mist veils the land,    
+Where solitude reigns supreme, and nature's beauty is at hand.    
+There, beneath the shadow of the peaks, I'll find my place,    
+And with my pretty little nightmire, I'll lose myself in endless space.    
 
 
- 
-How can I bear this agony so intense? 
+**In a Tunnel Long and Dark**
 
-Only through DEATH! 
+In a tunnel long and dark,    
+Chiseled with slave blood.    
+Lights glimmer afar,   
+but never reach.   
+Just like my love.    
 
+How can I bear this agony so intense?   
+Only through DEATH!    
 From which my pretty little nightmare grows.

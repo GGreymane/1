@@ -1,6 +1,6 @@
 ---
 title: "Postcard #1"
-excerpt: "The Postcard I wrote on Feb. 28 for my Pretty Little Nightmare<br/><img src='/images/postcard_feb28.jpeg' width="600" height="375">"
+excerpt: "The Postcard I wrote on Feb. 28 for my Pretty Little Nightmare<br/><img src='/images/postcard_feb28.jpeg' style="width:600px;height:375px;">"
 collection: portfolio
 ---
 

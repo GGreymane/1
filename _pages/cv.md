@@ -14,10 +14,11 @@ March Goal
 
 **My pretty little nightmare:**
 
-Prepare spring trip    
-Organize world book day     
-Get promoted   
+- Prepare spring trip    
+- Organize world book day     
+- Get promoted   
 
 **G. Greymane:**
-Come up with a good research idea   
-Implement it!
+
+- Come up with a good research idea   
+- Implement it!

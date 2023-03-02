@@ -11,3 +11,6 @@ main:
 
   - title: "Album"
     url: /portfolio/
+    
+  - title: "Diary"
+    url: /cv/

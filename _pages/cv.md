@@ -12,7 +12,7 @@ redirect_from:
 March Goal
 ======
 
-**My pretty little nightmare:**
+**My Pretty Little Nightmare:**
 
 - Prepare the spring trip :)    
 - Organize world book day :)     

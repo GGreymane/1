@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Diary"
+title: "March Goal"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-March Goal
-======
 
 **My Pretty Little Nightmare:**
 

@@ -10,13 +10,14 @@ redirect_from:
 {% include base_path %}
 
 
-**My Pretty Little Nightmare:**
+**Christina:**
 
-- Prepare the spring trip :)    
-- Organize world book day :)     
-- Get promoted!!!   
+- Work Hard!  
+- Study Hard!   
+- Love Genn!!!   
 
-**G. Greymane:**
+**Genn:**
 
-- Come up with a good research idea (Check!)    
-- Implement it!!!
+- Do good reseaerch!   
+- Give good presentations!   
+- Love Christina!!!

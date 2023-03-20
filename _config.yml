@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "G. Greymane"
+title                    : "Christina & Genn's Little Home"
 title_separator          : "-"
-name                     : &name "G. Greymane"
-description              : &description "Graduate Student at UVa. Currenly fall in love with a girl from UK that I never met."
-url                      : https://GGreymane.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Christina & Genn's Little Home"
+description              : &description "Genn is currently a Ph.D. student at UVa. He is currenly falling in love with Christina, the most amazing girl in the world, from Florida."
+url                      : https://christinagenn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "GGreymane.github.io"
+repository               : "christinagenn.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

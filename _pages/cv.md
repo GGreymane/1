@@ -14,10 +14,10 @@ redirect_from:
 
 - Work Hard!  
 - Study Hard!   
-- Love Genn!!!   
+- Love **Genn** !!!   
 
 **Genn:**
 
 - Do good reseaerch!   
 - Give good presentations!   
-- Love Christina!!!
+- Love **Christina** !!!
